@@ -1,0 +1,14 @@
+{
+  "name": "school-of-ai",
+  "version": "1.0.0",
+  "description": "School of AI Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "echo \"Hello from sass\""
+  },
+  "author": "Ebrima Konteh",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
